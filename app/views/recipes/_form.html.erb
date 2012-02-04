@@ -16,8 +16,9 @@
     <%= f.text_field :title %>
   </div>
   <div class="field">
-    <%= f.label :description %><br />
-    <%= f.text_field :description %>
+  	<%= f.label :description %><br />
+    
+    <%= cktext_area :recipe, :description %>
   </div>
   <div class="actions">
     <%= f.submit %>

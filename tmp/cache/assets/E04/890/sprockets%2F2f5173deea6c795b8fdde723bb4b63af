@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1328361942.5912106:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1328391954.777162:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%2c423407385d61586b0fc60f6632beadI"logical_path;
+F"%bb95a9b54dffac2a5baaac8578e214ffI"logical_path;
 FI"application.js;
 TI"pathname;
 FI"0$root/app/assets/javascripts/application.js;
@@ -9,38 +9,37 @@ FI"content_type;
 FI"application/javascript;
 FI"
 mtime;
-FI"2012-02-03T22:30:31-05:00;
+FI"2012-02-04T16:44:20-05:00;
 FI"	body;
-FI"î// This is a manifest file that'll be compiled into including all the files listed below.
+FI"ï// This is a manifest file that'll be compiled into including all the files listed below.
 // Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
 // be included in the compiled file accessible from http://example.com/assets/application.js
 // It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
 // the compiled file.
 //
+
 ;
 ;
 FI"asset_paths;
-F["e/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js"i/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"0$root/app/assets/javascripts/dgos.js.coffee;
-FI"0$root/app/assets/javascripts/dogs.js.coffee;
-FI"0$root/app/assets/javascripts/home.js.coffee;
+F["e/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js"i/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"0$root/app/assets/javascripts/home.js.coffee;
 FI"3$root/app/assets/javascripts/recipes.js.coffee;
-FI"0$root/app/assets/javascripts/application.js;
+F"o/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/ckeditor-3.7.0.rc2/vendor/assets/javascripts/ckeditor/ckeditor.jsI"0$root/app/assets/javascripts/application.js;
 FI"dependency_paths;
-F[{I"	path;
+F[{I"	path;
 FI"0$root/app/assets/javascripts/application.js;
 FI"
 mtime;
-FIu:	TimeˆÄ	“´
+FIu:	TimeïÄÉ9ê∞
 :@_zoneI"EST;
-T:nano_numi‘:nano_deni:submicro"r@:offseti˛∞πI"hexdigest;
-F"%549ddbd6cc7eb5cac3ef01164f35f695{I"	path;
+T:nano_numi≤:nano_deni:submicro"Ä:offseti˛∞πI"hexdigest;
+F"%cc97e4441ebe342bf5711b26a3d18e7e{I"	path;
 FI"!$root/app/assets/javascripts;
 FI"
 mtime;
-FIu;ÉÄ ¿˜y
+FIu;ïÄmÙD±
 ;I"EST;
-T;i`;i;"	;i˛∞πI"hexdigest;
-F"%c1ecd9844facf3bbf269fdc749e542dc{I"	path;
+T;i÷;i;"r`;i˛∞πI"hexdigest;
+F"%e0b0731c42ca1590554d09b1b2cbd03d{I"	path;
 F"e/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.jsI"
 mtime;
 FIu;’Ä*©Ä
@@ -53,20 +52,6 @@ FIu;’Ä*©Ä
 ;I"EST;
 T;i;i;"RP;i˛∞πI"hexdigest;
 F"%2caafa0c2617f9985c1a0b07ebaefadf{I"	path;
-FI"0$root/app/assets/javascripts/dgos.js.coffee;
-FI"
-mtime;
-FIu;¨Ä^;
-;I"EST;
-T;i`;i;"Ü@;i˛∞πI"hexdigest;
-F"%c12f0621e8cbf15a5c4dfa732f9f322a{I"	path;
-FI"0$root/app/assets/javascripts/dogs.js.coffee;
-FI"
-mtime;
-FIu;ÄÜﬂÄ~
-;I"EST;
-T;iÂ;i;"ôp;i˛∞πI"hexdigest;
-F"%c12f0621e8cbf15a5c4dfa732f9f322a{I"	path;
 FI"0$root/app/assets/javascripts/home.js.coffee;
 FI"
 mtime;
@@ -80,5 +65,11 @@ mtime;
 FIu;ÉÄÿÁ˜y
 ;I"EST;
 T;iî;i;"@@;i˛∞πI"hexdigest;
-F"%c12f0621e8cbf15a5c4dfa732f9f322aI"_version;
+F"%c12f0621e8cbf15a5c4dfa732f9f322a{I"	path;
+F"o/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/ckeditor-3.7.0.rc2/vendor/assets/javascripts/ckeditor/ckeditor.jsI"
+mtime;
+FIu;¢Äíy«
+;I"EST;
+T;i‘;i;"! ;i˛∞πI"hexdigest;
+F"%33cb4544b535debdad78e8aebdd4156fI"_version;
 F"%46dde6621c301f4928e3b34efee9e3b5

@@ -10,6 +10,8 @@ gem 'mongo_mapper'
 gem 'coffee-script-source', '1.1.2'
 gem 'therubyracer', '>=0.8.2'
 
+gem "ckeditor", "3.7.0.rc2"
+
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
