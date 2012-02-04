@@ -1,0 +1,21 @@
+<h1>Listing dgos</h1>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @dgos.each do |dgo| %>
+  <tr>
+    <td><%= link_to 'Show', dgo %></td>
+    <td><%= link_to 'Edit', edit_dgo_path(dgo) %></td>
+    <td><%= link_to 'Destroy', dgo, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Dgo', new_dgo_path %>

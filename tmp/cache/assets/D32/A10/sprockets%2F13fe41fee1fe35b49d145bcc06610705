@@ -1,0 +1,72 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327148302.6436017:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%087a27d136ff8bb65f0262ce2b1840eaI"logical_path;
+FI"application.css;
+TI"pathname;
+FI"1$root/app/assets/stylesheets/application.css;
+FI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2012-01-21T07:18:10-05:00;
+FI"	body;
+FI":/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+*/
+;
+FI"asset_paths;
+F[
+I"1$root/app/assets/stylesheets/application.css;
+FI"/$root/app/assets/stylesheets/dgos.css.scss;
+FI"/$root/app/assets/stylesheets/dogs.css.scss;
+FI"/$root/app/assets/stylesheets/home.css.scss;
+FI"4$root/app/assets/stylesheets/scaffolds.css.scss;
+FI"dependency_paths;
+F[{I"	path;
+FI"1$root/app/assets/stylesheets/application.css;
+FI"
+mtime;
+FIu:	Timeö€	Ò«
+:@_zoneI"EST;
+T:nano_numiÔ:nano_deni:submicro"r@:offsetiþ°¹I"hexdigest;
+F"%2b7a967c0b2a73b7a2cb015e2bfeaa8c{I"	path;
+FI"!$root/app/assets/stylesheets;
+FI"
+mtime;
+FIu;¬€N’^;
+;I"EST;
+T;i’;i;"@ ;iþ°¹I"hexdigest;
+F"%ca748b393b6b61d155f7f2057ed3682a{I"	path;
+FI"/$root/app/assets/stylesheets/dgos.css.scss;
+FI"
+mtime;
+FIu;¬€N’^;
+;I"EST;
+T;i’;i;"@ ;iþ°¹I"hexdigest;
+F"%97763c0d6f89852f9534c8358e2cf5b5{I"	path;
+FI"/$root/app/assets/stylesheets/dogs.css.scss;
+FI"
+mtime;
+FIu;¬€šsªH
+;I"EST;
+T;i‚;i;"‰€;iþ°¹I"hexdigest;
+F"%cbbbdc3dfc72da910cb17fa16f731381{I"	path;
+FI"/$root/app/assets/stylesheets/home.css.scss;
+FI"
+mtime;
+FIu;€
+ô‘
+;I"EST;
+T;i=;i;"1p;iþ°¹I"hexdigest;
+F"%607eed1134c7d410c4eae836fb69fc25{I"	path;
+FI"4$root/app/assets/stylesheets/scaffolds.css.scss;
+FI"
+mtime;
+FIu;€ámÓš
+;I"EST;
+T;iî;i;"#€;iþ°¹I"hexdigest;
+F"%63f90038eaeac9d53220578d76ce8e57I"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

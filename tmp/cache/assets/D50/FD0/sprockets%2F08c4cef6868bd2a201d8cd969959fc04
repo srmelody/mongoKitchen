@@ -1,0 +1,28 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1326732980.453444:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%b75c28919b534cf65cd1009c575b881fI"logical_path;
+F"dogs.jsI"pathname;
+FI"0$root/app/assets/javascripts/dogs.js.coffee;
+FI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-01-16T08:31:40-05:00;
+FI"	body;
+FI"#(function() {
+
+}).call(this);
+;
+TI"asset_paths;
+F[I"0$root/app/assets/javascripts/dogs.js.coffee;
+FI"dependency_paths;
+F[{I"	path;
+FI"0$root/app/assets/javascripts/dogs.js.coffee;
+FI"
+mtime;
+FIu:	Time€†ß€~
+:@_zoneI"EST;
+T:nano_numiå:nano_deni:submicro"™p:offsetiþ°¹I"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322aI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5
