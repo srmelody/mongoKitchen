@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327148302.8826687:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1328361942.5912106:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%6ab8aa9ffa08529dea3e538e6f617900I"logical_path;
+F"%2c423407385d61586b0fc60f6632beadI"logical_path;
 FI"application.js;
 TI"pathname;
 FI"0$root/app/assets/javascripts/application.js;
@@ -9,7 +9,7 @@ FI"content_type;
 FI"application/javascript;
 FI"
 mtime;
-FI"2012-01-21T07:14:53-05:00;
+FI"2012-02-03T22:30:31-05:00;
 FI"	body;
 FI"”// This is a manifest file that'll be compiled into including all the files listed below.
 // Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
@@ -20,12 +20,13 @@ FI"”// This is a manifest file that'll be compiled into including all the file
 ;
 ;
 FI"asset_paths;
-F["e/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js"i/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"0$root/app/assets/javascripts/dgos.js.coffee;
+F["e/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js"i/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"0$root/app/assets/javascripts/dgos.js.coffee;
 FI"0$root/app/assets/javascripts/dogs.js.coffee;
 FI"0$root/app/assets/javascripts/home.js.coffee;
+FI"3$root/app/assets/javascripts/recipes.js.coffee;
 FI"0$root/app/assets/javascripts/application.js;
 FI"dependency_paths;
-F[{I"	path;
+F[{I"	path;
 FI"0$root/app/assets/javascripts/application.js;
 FI"
 mtime;
@@ -36,10 +37,10 @@ F"%549ddbd6cc7eb5cac3ef01164f35f695{I"	path;
 FI"!$root/app/assets/javascripts;
 FI"
 mtime;
-FIu;¬€^;
+FIu;ƒ€ÊÀ÷y
 ;I"EST;
-T;i`;i;"†@;iþ°¹I"hexdigest;
-F"%54dd50e7557808ac047d160763c7d723{I"	path;
+T;i`;i;"	;iþ°¹I"hexdigest;
+F"%c1ecd9844facf3bbf269fdc749e542dc{I"	path;
 F"e/home/phaze/.rvm/gems/ruby-1.9.3-p0/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.jsI"
 mtime;
 FIu;Õ€*©€
@@ -72,5 +73,12 @@ mtime;
 FIu;€¿Fó‘
 ;I"EST;
 T;i†;i;"9;iþ°¹I"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322a{I"	path;
+FI"3$root/app/assets/javascripts/recipes.js.coffee;
+FI"
+mtime;
+FIu;ƒ€Øç÷y
+;I"EST;
+T;i”;i;"@@;iþ°¹I"hexdigest;
 F"%c12f0621e8cbf15a5c4dfa732f9f322aI"_version;
 F"%46dde6621c301f4928e3b34efee9e3b5

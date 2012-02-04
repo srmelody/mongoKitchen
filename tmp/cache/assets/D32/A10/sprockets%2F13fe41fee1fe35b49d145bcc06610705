@@ -1,7 +1,7 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1327148302.6436017:@value{I"
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1328361942.29901:@value{I"
 class:EFI"BundledAsset;
 FI"id;
-F"%087a27d136ff8bb65f0262ce2b1840eaI"logical_path;
+F"%0626db1c2aa83122cd3fc38749d7d37bI"logical_path;
 FI"application.css;
 TI"pathname;
 FI"1$root/app/assets/stylesheets/application.css;
@@ -9,7 +9,7 @@ FI"content_type;
 FI"text/css;
 FI"
 mtime;
-FI"2012-01-21T07:18:10-05:00;
+FI"2012-02-03T22:30:31-05:00;
 FI"	body;
 FI":/*
  * This is a manifest file that'll automatically include all the stylesheets available in this directory
@@ -18,14 +18,14 @@ FI":/*
 */
 ;
 FI"asset_paths;
-F[
-I"1$root/app/assets/stylesheets/application.css;
+F[I"1$root/app/assets/stylesheets/application.css;
 FI"/$root/app/assets/stylesheets/dgos.css.scss;
 FI"/$root/app/assets/stylesheets/dogs.css.scss;
 FI"/$root/app/assets/stylesheets/home.css.scss;
+FI"2$root/app/assets/stylesheets/recipes.css.scss;
 FI"4$root/app/assets/stylesheets/scaffolds.css.scss;
 FI"dependency_paths;
-F[{I"	path;
+F[{I"	path;
 FI"1$root/app/assets/stylesheets/application.css;
 FI"
 mtime;
@@ -36,10 +36,10 @@ F"%2b7a967c0b2a73b7a2cb015e2bfeaa8c{I"	path;
 FI"!$root/app/assets/stylesheets;
 FI"
 mtime;
-FIu;¨ÄNí^;
+FIu;ÉÄK˘¯y
 ;I"EST;
-T;ií;i;"@ ;i˛∞πI"hexdigest;
-F"%ca748b393b6b61d155f7f2057ed3682a{I"	path;
+T;iÛ;i;"Iê;i˛∞πI"hexdigest;
+F"%2cd214b1076acdd3154ffeb8d50fb2c9{I"	path;
 FI"/$root/app/assets/stylesheets/dgos.css.scss;
 FI"
 mtime;
@@ -62,6 +62,13 @@ FIu;Ä
 ;I"EST;
 T;i=;i;"1p;i˛∞πI"hexdigest;
 F"%607eed1134c7d410c4eae836fb69fc25{I"	path;
+FI"2$root/app/assets/stylesheets/recipes.css.scss;
+FI"
+mtime;
+FIu;ÉÄK˘¯y
+;I"EST;
+T;iÛ;i;"Iê;i˛∞πI"hexdigest;
+F"%dd094bb304d267dd3f44408fa1050252{I"	path;
 FI"4$root/app/assets/stylesheets/scaffolds.css.scss;
 FI"
 mtime;

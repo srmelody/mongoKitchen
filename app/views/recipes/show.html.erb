@@ -10,16 +10,6 @@
   <%= @recipe.description %>
 </p>
 
-<p>
-  <b>Created at:</b>
-  <%= @recipe.created_at %>
-</p>
-
-<p>
-  <b>Updated at:</b>
-  <%= @recipe.updated_at %>
-</p>
-
 
 <%= link_to 'Edit', edit_recipe_path(@recipe) %> |
 <%= link_to 'Back', recipes_path %>

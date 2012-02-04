@@ -1,4 +1,6 @@
 RailsApp::Application.routes.draw do
+  resources :recipes
+
   resources :dgos
 
   get "home/index"

@@ -4,15 +4,15 @@ defaults: &defaults
 
 development:
   <<: *defaults
-  database: rails_app_development
+  database: kitchenDev
 
 test:
   <<: *defaults
-  database: rails_app_test
+  database: kitchenTest
 
 # set these environment variables on your prod server
 production:
   <<: *defaults
-  database: rails_app
+  database: mongoKitchen
   username: <%= ENV['MONGO_USERNAME'] %>
   password: <%= ENV['MONGO_PASSWORD'] %>
