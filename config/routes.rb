@@ -1,11 +1,10 @@
 RailsApp::Application.routes.draw do
   resources :recipes
 
-  resources :dgos
+  
 
   get "home/index"
 
-  resources :dogs
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>Title</th>
-    <th>Description</th>
+    
     <th></th>
     <th></th>
     <th></th>
@@ -12,7 +12,7 @@
 <% @recipes.each do |recipe| %>
   <tr>
     <td><%= recipe.title %></td>
-    <td><%= recipe.description %></td>
+  
     <td><%= link_to 'Show', recipe %></td>
     <td><%= link_to 'Edit', edit_recipe_path(recipe) %></td>
     <td><%= link_to 'Destroy', recipe, confirm: 'Are you sure?', method: :delete %></td>

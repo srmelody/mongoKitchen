@@ -6,6 +6,7 @@ source 'http://gemcutter.org'
 gem 'rails', '3.1.3'
 gem 'rails3-generators'
 gem "bson_ext"
+gem 'mongo'
 gem 'mongo_mapper'
 gem 'coffee-script-source', '1.1.2'
 gem 'therubyracer', '>=0.8.2'

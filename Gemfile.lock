@@ -185,6 +185,7 @@ DEPENDENCIES
   cucumber-rails
   database_cleaner
   jquery-rails
+  mongo
   mongo_mapper
   nokogiri
   rails (= 3.1.3)
